@@ -95,5 +95,18 @@ network )
 
 ## Right hand-centric coordinate system
 
-- 이사람들은 ㅊ 
+- 이 사람들은 input trajectory의 바로 전 프레임의 오른손 손목에 coordinate system을 적용했다.
 
+- 모델로 들어가기 전, 모든 데이터들을 저 coordinate system으로 변환부터 한다.
+
+- 왼손은 단순하게 데이터 들어오면 반대로 mirror 시켜버린다. (그러면 오른손이 한 것처럼 보이기 때문) 그리고 결과물 나오면 다시 오른손으로 바꾸어 버린다.
+
+- interaction하는 물건이 하나만 있다면, 오른손-물건 한번 manipnet 보낸 다음 왼손-물건 manipnet으로 보냄
+
+- 결국 저자는 오른손만 학습시키면 된다.
+
+- 왼손잡이 오른손잡이에 의해서 생길 수 있는 편향성은 input trajectories에 나올 수 있다고 함.
+
+- 한 손으로만 테스트 하는 것이 결국 coordinate문제까지 고려하면 가장 최적화된 결과다 라고 저자는 생각함 
+
+- o
