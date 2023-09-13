@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_DoingShit/ManipNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c6b35e04128c843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_inboxAndTodo/Obsidian remote service.md",
+                "file": "2_DoingShit/this is doing shit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inboxAndTodo/Obsidian remote service.md",
+                "file": "2_DoingShit/this is doing shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inboxAndTodo/Obsidian remote service.md",
+                "file": "2_DoingShit/this is doing shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inboxAndTodo/Obsidian remote service.md"
+                "file": "2_DoingShit/this is doing shit.md"
               }
             }
           }
@@ -183,13 +171,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c6b35e04128c843",
+  "active": "a9fe99f29d22b830",
   "lastOpenFiles": [
-    "Introduction.md",
-    "무제 파일.md",
-    "0_inboxAndTodo/Obsidian remote service.md",
+    "2_DoingShit/Obsidian remote service.md",
     "2_DoingShit/ManipNet.md",
     "2_DoingShit/make blog with obsidian.md",
+    "Introduction.md",
+    "무제 파일.md",
     "2_DoingShit/this is doing shit.md",
     "Template/tag.md",
     "AttachedFiles/attachedFiles.md",
