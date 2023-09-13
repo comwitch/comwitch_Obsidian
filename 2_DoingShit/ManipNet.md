@@ -40,4 +40,8 @@ url:https://research.facebook.com/file/593672515280443/ManipNet-Neural-Manipulat
 
 - 고로 저해상도의 voxel occupancy grid 사용해서 object shape를 표현한다.  여기에 손과 물체 표면 사이에의 distance samples가 디테일을 잘 캡쳐하는 low dimensional signal이다 
 
-- 
+- finger pose 의 예측은 neural network를 통해서 배웠다.
+
+- Control signals are 6D trajectories of the wrist and of the object
+
+- deep learning 로 일반화 잘하기 위해 덜 애매한 input representation를 해야했고,  그 결과가 한개의 손 (오른손) - 물체 이 조합으로 건들게 했다. 그다음 다른 손과 물체
