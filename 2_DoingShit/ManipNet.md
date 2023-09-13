@@ -1,11 +1,12 @@
 
-태그: #paper
-출처: 
-저자:
-url:https://research.facebook.com/file/593672515280443/ManipNet-Neural-Manipulation-Synthesis-with-a-Hand-Object-Spatial-Representation.pdf
-인용:
-위치:
-연결문서: [[Hand_Animation_Paper]]
+날짜 : 2023-09-13
+태그 : #paper
+출처 : 
+저자 :
+url : https://research.facebook.com/file/593672515280443/ManipNet-Neural-Manipulation-Synthesis-with-a-Hand-Object-Spatial-Representation.pdf
+인용 : 
+위치 : 
+연결문서 :  [[Hand_Animation_Paper]]
 
 
 # 개요
@@ -67,12 +68,32 @@ made objects
 
 - 전체적인 시스템은 위에서 설명한 거를 조금 더 요약한 느낌이다.
 
-
-
 ### input
 -  manipulated될 wrist와 object의 trajectories
 - skined mesh (손, object)
 - 오브젝트의 3D geometry
+### output
+- finger poses
+
+- 아까 말했듯이 ManipNet은 한 손에 대해서 학습하고 결과물을 도출 할 수 있다. 다른 손은 어떻게 작동되어지는지는 section 4로.
+
+### Sensing spatial relationships
+
+- 네트워크의 일반화와 overfitting 줄임을 위해서 3개의 virtual sensor를 사용했다. 이 센서들은 물체의 모양을 단순한 복셀 그리드와 기하학적 point sample로 표현함.
+
+- global features가 전체적인 포즈와 미래 동작을 예측한다면, local feature는 기하학적 다형성을 위한 일반화를 가능하게 한다.
 
 ### manipnet (deep neural network)
 - autoregressive model
+
+- 시계열 +RDN(residual dense
+network )
+
+- 인풋은 위에서 말한 previous frame 포함 pose, sensor feature, control signals(wrist 와 object의 trajectories)
+
+- 예측하는 것 : 손가락과 물체 간의 거리 + 새로운 손 포즈 
+
+## Right hand-centric coordinate system
+
+- 이사람들은 ㅊ 
+
