@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f124e4016d9f12ac",
+            "id": "6d68ce1e2514f951",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,20 +146,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f124e4016d9f12ac",
+  "active": "6d68ce1e2514f951",
   "lastOpenFiles": [
-    "AttachedFiles/pic1.png",
-    "3_ComputerScience/Hand_Animation_Paper.md",
-    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
-    "무제 파일.canvas",
-    "2_DoingShit/ManipNet.md",
+    "2_DoingShit/make blog with obsidian.md",
     "2_DoingShit/this is doing shit.md",
     "2_DoingShit/Obsidian remote service.md",
-    "2_DoingShit/make blog with obsidian.md",
+    "0_inboxAndTodo/AutoRegressiveModel.md",
+    "2_DoingShit/ManipNet.md",
+    "3_ComputerScience/Hand_Animation_Paper.md",
+    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
+    "1_Reviews/this is reviews.md",
+    "AttachedFiles/pic1.png",
+    "무제 파일.canvas",
     "Introduction.md",
     "Template/tag.md",
     "AttachedFiles/attachedFiles.md",
-    "1_Reviews/this is reviews.md",
     "4_MemoSkill/this is memo skill.md",
     "무제 폴더",
     "AttachedFiles",

@@ -65,4 +65,14 @@ made objects
 
 ## System OverView
 
-- 전체적인 시스템은 다음과 같다. -
+- 전체적인 시스템은 위에서 설명한 거를 조금 더 요약한 느낌이다.
+
+
+
+### input
+-  manipulated될 wrist와 object의 trajectories
+- skined mesh (손, object)
+- 오브젝트의 3D geometry
+
+### manipnet (deep neural network)
+- autoregressive model
