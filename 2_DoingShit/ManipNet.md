@@ -114,4 +114,7 @@ network )
 
 ## Sensing the spatial relations between hands and objects
 
--  
+-  저자는 마르고 닳도록 말했지만, 3가지의 sensor가 존재한다.
+
+- 이 센서들로 얻어진 local 한 정보들 때문에 글로벌한 shape을 얻을 수 있다.
+
