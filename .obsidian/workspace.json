@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inbox/make blog with obsidian.md",
+                "file": "0_inbox/ManipNet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_inbox/make blog with obsidian.md",
+                "file": "0_inbox/ManipNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_inbox/make blog with obsidian.md",
+                "file": "0_inbox/ManipNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_inbox/make blog with obsidian.md"
+                "file": "0_inbox/ManipNet.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "a9fe99f29d22b830",
   "lastOpenFiles": [
+    "2_DoingShit/make blog with obsidian.md",
     "2_DoingShit/this is doing shit.md",
-    "0_inbox/make blog with obsidian.md",
     "Template/tag.md",
     "AttachedFiles/attachedFiles.md",
     "0_inbox/ManipNet.md",
