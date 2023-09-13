@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/tag.md",
+                "file": "2_DoingShit/this is doing shit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9fe99f29d22b830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_inbox/make blog with obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/tag.md",
+                "file": "0_inbox/make blog with obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/tag.md",
+                "file": "0_inbox/make blog with obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/tag.md"
+                "file": "0_inbox/make blog with obsidian.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32fb1116b469833a",
+  "active": "a9fe99f29d22b830",
   "lastOpenFiles": [
+    "2_DoingShit/this is doing shit.md",
+    "0_inbox/make blog with obsidian.md",
+    "Template/tag.md",
     "AttachedFiles/attachedFiles.md",
     "0_inbox/ManipNet.md",
     "1_Reviews/this is reviews.md",
-    "2_DoingShit/this is doing shit.md",
     "3_ComputerScience/Hand_Animation_Paper.md",
     "4_MemoSkill/this is memo skill.md",
     "Introduction.md",
