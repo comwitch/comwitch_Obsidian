@@ -109,4 +109,9 @@ network )
 
 - 한 손으로만 테스트 하는 것이 결국 coordinate문제까지 고려하면 가장 최적화된 결과다 라고 저자는 생각함 
 
-- o
+- object local coordinate 기준으로도 생각해보았는데, 여러 물건 사이로 가면 문제가 생긴다.
+
+
+## Sensing the spatial relations between hands and objects
+
+- 
