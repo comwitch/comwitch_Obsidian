@@ -127,3 +127,10 @@ network )
 - voxel cell의 occupancy percentage는 다음과 같이 구한다.
 
 	-  0 (no instersection)
+	- 1 - d/s (intersection) (d : d(centercell, object), s : 1.8)
+
+- voxel cell의 해상도를 늘리면 더 자세한 물체의 표면을 알 수 있지만, 계산복잡도가 확 올라버리기 때문에, distance-based sensor들을 사용한다. 
+
+### Proximity Sensor
+
+- 
