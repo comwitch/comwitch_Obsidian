@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "494edd8e3a68b2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_DoingShit/ManipNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f124e4016d9f12ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
+                "file": "2_DoingShit/ManipNet.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -159,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "494edd8e3a68b2ba",
+  "active": "f124e4016d9f12ac",
   "lastOpenFiles": [
+    "AttachedFiles/pic1.png",
     "3_ComputerScience/Hand_Animation_Paper.md",
     "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
+    "무제 파일.canvas",
     "2_DoingShit/ManipNet.md",
     "2_DoingShit/this is doing shit.md",
     "2_DoingShit/Obsidian remote service.md",
@@ -174,7 +163,6 @@
     "4_MemoSkill/this is memo skill.md",
     "무제 폴더",
     "AttachedFiles",
-    "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
 }

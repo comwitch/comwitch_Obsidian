@@ -38,10 +38,31 @@ url:https://research.facebook.com/file/593672515280443/ManipNet-Neural-Manipulat
 	-  and point samples
 	- 저자는 중요 정보들을 캡처하면서 feature dimention을 줄인다고 한다.( overfitting을 피하기 위해.)
 
-- 고로 저해상도의 voxel occupancy grid 사용해서 object shape를 표현한다.  여기에 손과 물체 표면 사이에의 distance samples가 디테일을 잘 캡쳐하는 low dimensional signal이다 
+- 저자는 저해상도의 voxel occupancy grid 사용해서 object shape를 표현한다.  여기에 손과 물체 표면 사이에의 distance samples가 디테일을 잘 캡쳐하는 low dimensional signal이다 
 
 - finger pose 의 예측은 neural network를 통해서 배웠다.
 
 - Control signals are 6D trajectories of the wrist and of the object
 
-- deep learning 로 일반화 잘하기 위해 덜 애매한 input representation를 해야했고,  그 결과가 한개의 손 (오른손) - 물체 이 조합으로 건들게 했다. 그다음 다른 손과 물건을 학습시키는 것을 
+- deep learning 로 일반화 잘하기 위해 덜 애매한 input representation를 해야했고,  그 결과가 한개의 손 (오른손) - 물체 이 조합으로 건들게 했다. 그다음 다른 손과 물건을 학습시키는 것을 시킴
+
+- 차주는거 성공했다함
+![그림](../AttachedFiles/pic1.png)
+
+
+요약하자면 다음과 같다
+
+• A neural network-based motion synthesis system that can
+generate detailed finger motions for one-/two-hand dexterous
+object manipulation,
+• a representation of hand-object spatial relation that enables a
+neural network to generalize manipulation motions to a wide
+range of object shapes and manipulation tasks,
+• a hand-object interaction motion dataset that includes de-
+tailed finger motions and dexterous manipulations of 16 man-
+made objects
+
+
+## System OverView
+
+- 전체적인 시스템은 다음과 같다. -
