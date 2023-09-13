@@ -118,3 +118,12 @@ network )
 
 - 이 센서들로 얻어진 local 한 정보들 때문에 글로벌한 shape을 얻을 수 있다.
 
+### Ambient Sensor
+
+-  18 * 18 * 18 cm3 의 voxel grid가 존재 (해상도는 10 10 10)
+
+- 손목에 붙어있음 meddle finger의 origin에 뭍어있다. grid의 센터는 constant offset( x = 4 y= 0 z = 9)를 가지고 있다.
+
+- voxel cell의 occupancy percentage는 다음과 같이 구한다.
+
+	-  0 (no instersection)
