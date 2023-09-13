@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Template/tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Template/tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Template/tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Template/tag.md"
               }
             }
           }
@@ -162,15 +162,16 @@
   "active": "32fb1116b469833a",
   "lastOpenFiles": [
     "AttachedFiles/attachedFiles.md",
-    "2_DoingShit/this is doing shit.md",
-    "4_MemoSkill/this is memo skill.md",
+    "0_inbox/ManipNet.md",
     "1_Reviews/this is reviews.md",
+    "2_DoingShit/this is doing shit.md",
+    "3_ComputerScience/Hand_Animation_Paper.md",
+    "4_MemoSkill/this is memo skill.md",
     "Introduction.md",
     "무제 폴더",
     "AttachedFiles",
     "무제 파일.md",
     "무제 파일.canvas",
-    "무제 파일 1.canvas",
-    "0_inbox/ManipNet.md"
+    "무제 파일 1.canvas"
   ]
 }
