@@ -150,4 +150,11 @@ network )
 
 ### Signed Distance Sensor
 
-- Signed Distance seonsers는 
+- Signed Distance seonsers는 object의 signed distance를 모은다. (각각 22개의 finger joint로부터 찾는다 )
+- 가까운 distance value랑 normal direction 두 개를 가지고 있다.
+
+- hand joint j에서의 특징값 sj는 다음과 같이 계산된다.
+	- sj = {sign(pj) min(||pj - po||, threshold), no}
+	- pj = joint position, po = closet object position, no = normal vector
+
+- feature vector S 는 이러한 sj들을 모아서 사용한다. 
