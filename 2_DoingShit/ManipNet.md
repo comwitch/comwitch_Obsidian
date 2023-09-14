@@ -172,4 +172,7 @@ network )
 - Input Xt 는 Pt-1 : pose input, Tt-1 : trajectory input 그리고 St-1 : sensor input 으로 구성되어있다.
 	-  현재의 포즈를 결과로 가져야 하기 때문에, t-1 (전 프레임의 결과물) 로 인풋을 갖는다.
 
-- Pose Input : Pt-1 는 joint들의 pose data 와 joint data vector로 나누어서 본다. coordinate system은 wrist 기준으로 본다. 관절의 갯수는 22개  
+- Pose Input : Pt-1 는 joint들의 pose data 와 joint data vector로 나누어서 본다. coordinate system은 wrist 기준으로 본다. 관절의 갯수는 22개 
+	- 여기서 의문 orientation이 6n의 dimension을 갖는지 살짝 의문이라 이부분 좀 넘길듯
+
+- Trajectory input
