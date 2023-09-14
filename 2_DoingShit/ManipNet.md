@@ -133,4 +133,21 @@ network )
 
 ### Proximity Sensor
 
-- 
+- 104개의 손과 손바닥의 sensor가 가까운 물건들을 탐지하게 유니폼리하게 배치됨 normal direction 방향으로 ray를 내놓고 분석한다 (threshold = 10cm)
+
+- sensor가 이미 object안에 있다면, 방향을 바꿔서 바꾼다.
+
+- distance feature는 다음과 같이 계산되어진다.
+	- dj = sign(pj)||pj - pc||  (ray-object intersection)
+	- dj = sign(pj) 10(threshold) (no instersection)
+
+- pj는 센서 포지션, pc는 ray와 object 표면에 닿은 점
+
+- feature vector D 는 이러한 dj들을 모아놓은 것이다.
+
+- proximity sensor는 물체와 손이 가까워 질 때 물체의 세부 표면을 알 수 있다.
+
+
+### Signed Distance Sensor
+
+- Signed Distance seonsers는 
