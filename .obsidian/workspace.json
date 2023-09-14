@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94cebbcd488afdf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2_DoingShit/ManipNet.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -160,10 +171,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f68af2bc1d2db24d",
+  "active": "94cebbcd488afdf8",
   "lastOpenFiles": [
-    "3_ComputerScience/Hand_Animation_Paper.md",
+    "5_Bookmarks/ASSJ.md",
+    "Introduction.md",
     "2_DoingShit/ManipNet.md",
+    "무제 파일.canvas",
+    "3_ComputerScience/Hand_Animation_Paper.md",
     "2_DoingShit/Obsidian_remote_service.md",
     "2_DoingShit/this is doing shit.md",
     "2_DoingShit/make blog with obsidian.md",
@@ -174,8 +188,6 @@
     "0_inboxAndTodo/AutoRegressiveModel.md",
     "Template/tag.md",
     "AttachedFiles/attachedFiles.md",
-    "무제 파일.canvas",
-    "Introduction.md",
     "4_MemoSkill/this is memo skill.md",
     "무제 폴더",
     "AttachedFiles",
