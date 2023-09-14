@@ -15,3 +15,4 @@ this is paper review for Hand animation. You can see paper review for hand anima
 
 2. [[Lerning_Grasp-Object_Interaction_by_IBS]]
 
+3. https://dl.acm.org/doi/abs/10.1145/3487983.3488300
