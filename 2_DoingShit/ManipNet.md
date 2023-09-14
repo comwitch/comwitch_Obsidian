@@ -161,4 +161,12 @@ network )
 
 - signed distance field of an object 는 미리 컴파일되어 있다. 
 
-- 저자는 surface normal vector 
+- 저자는 surface normal vector 가 손과 object사이의 contact할때 유용한 가이드라인을 제공한다함 --> 검증은 필요
+
+## Maniplet for hand motion synthesis
+
+- neural net input - output  소개한 다음 아키텍쳐 디테일을 소개함  
+
+### Input -Output
+
+- 
