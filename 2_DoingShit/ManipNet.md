@@ -158,3 +158,7 @@ network )
 	- pj = joint position, po = closet object position, no = normal vector
 
 - feature vector S 는 이러한 sj들을 모아서 사용한다. 
+
+- signed distance field of an object 는 미리 컴파일되어 있다. 
+
+- 저자는 surface normal vector 
