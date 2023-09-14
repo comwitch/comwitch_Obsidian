@@ -180,4 +180,18 @@ network )
 	- character animatio의 control signal에 영향을 받는다. 
 	- t-1 frame부터 1초간격으로 받는다 
 		- 21프레임인데 10프레임은 과거 10프레임은 미래 1프레임은 현재프레임인듯? 
-		- 
+	- 오른손 : 포지션과 orientation을 갖는다. coordination은 t-1 frame의 wrist기준
+	- 왼손 : 오른손과의 거리만 가지고있다.
+	- object : 무게중심의 위치와 각속도 (right hand wrist 기준)
+
+
+- sensor input
+	- 아까 Sensing the spatial relations between hands and objects 이파트에서 말한 부분 그대로 가져간다고 보면됨
+
+- output은 오른손의 pose와 각 관절과 object surface 사이의 거리를 뜻함
+
+### Network Architecture
+- network archintecture는 RDB를 사용했다고 보면 된다. 이부분은 추후 ML 파트 공부할 때 따로 넘겨야할듯
+
+
+### post processing
