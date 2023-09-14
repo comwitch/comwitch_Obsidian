@@ -175,4 +175,9 @@ network )
 - Pose Input : Pt-1 는 joint들의 pose data 와 joint data vector로 나누어서 본다. coordinate system은 wrist 기준으로 본다. 관절의 갯수는 22개 
 	- 여기서 의문 orientation이 6n의 dimension을 갖는지 살짝 의문이라 이부분 좀 넘길듯
 
-- Trajectory input
+- Trajectory input 
+	- Trajectory input은 right hand left hand object의 궤적을 받는다.
+	- character animatio의 control signal에 영향을 받는다. 
+	- t-1 frame부터 1초간격으로 받는다 
+		- 21프레임인데 10프레임은 과거 10프레임은 미래 1프레임은 현재프레임인듯? 
+		- 
