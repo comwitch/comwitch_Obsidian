@@ -4,71 +4,84 @@
     "type": "split",
     "children": [
       {
-        "id": "013bc4f7133f65c1",
-        "type": "tabs",
+        "id": "7c39ee5fc22232a4",
+        "type": "split",
         "children": [
           {
-            "id": "f68af2bc1d2db24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_ComputerScience/Hand_Animation_Paper.md",
-                "mode": "source",
-                "source": false
+            "id": "7a2ef90012b2f005",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "671b00b34f3b432a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3_ComputerScience/AI.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "99a4945e4ea83cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_ComputerScience/AI.md",
-                "mode": "source",
-                "source": false
+            "id": "013bc4f7133f65c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f68af2bc1d2db24d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3_ComputerScience/Hand_Animation_Paper.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "99a4945e4ea83cfc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3_ComputerScience/AI.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4b4cec743d1fe113",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Computer Graphics.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "94cebbcd488afdf8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3_ComputerScience/Hand_Animation_Paper.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "671b00b34f3b432a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_ComputerScience/AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b4cec743d1fe113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94cebbcd488afdf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_ComputerScience/Hand_Animation_Paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ],
+            "currentTab": 2
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
