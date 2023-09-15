@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3_ComputerScience/AI.md",
+                    "file": "3_ComputerScience/Hand_Animation_Paper.md",
                     "mode": "source",
                     "source": false
                   }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "3_ComputerScience/Hand_Animation_Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "3_ComputerScience/Hand_Animation_Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics.md"
+                "file": "3_ComputerScience/Hand_Animation_Paper.md"
               }
             }
           }
@@ -208,9 +208,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b4cec743d1fe113",
+  "active": "671b00b34f3b432a",
   "lastOpenFiles": [
     "3_ComputerScience/AI.md",
+    "2_DoingShit/this is doing shit.md",
+    "2_DoingShit/ManipNet.md",
     "Computer Graphics.md",
     "DQN.md",
     "3_ComputerScience/Hand_Animation_Paper.md",
@@ -219,14 +221,12 @@
     "AttachedFiles/attachedFiles.md",
     "0_inboxAndTodo/make blog with obsidian.md",
     "5_Bookmarks/ASSJ.md",
-    "2_DoingShit/ManipNet.md",
     "2_DoingShit/Obsidian_remote_service.md",
     "1_Reviews/this is reviews.md",
     "0_inboxAndTodo/lunarvim.md",
     "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
     "0_inboxAndTodo/AutoRegressiveModel.md",
     "무제 파일.canvas",
-    "2_DoingShit/this is doing shit.md",
     "Template/tag.md",
     "4_MemoSkill/this is memo skill.md",
     "무제 폴더",
