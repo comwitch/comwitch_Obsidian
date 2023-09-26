@@ -36,18 +36,16 @@ require("subRoutines/AnimOgreEntity")
 
 function ctor()
 
+-- event reciever 시작 
+
 mEventReceiver=EVR()
 
-  
-
 this:create("Button", "translate skeleton skin", "translate skeleton skin")
-
 this:create("Button", "rotate elbow", "rotate elbow")
-
   
-
 this:updateLayout()
 
+-- event reciever 끝
   
 
 -- using manual mode.
