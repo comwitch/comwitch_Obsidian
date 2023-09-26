@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics 3. representing rotation.md",
+                "file": "3_ComputerScience/Hand_Animation_Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics 3. representing rotation.md",
+                "file": "3_ComputerScience/Hand_Animation_Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics 3. representing rotation.md"
+                "file": "3_ComputerScience/Hand_Animation_Paper.md"
               }
             }
           }
@@ -170,7 +169,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7c56cfcfbd99d927",
+  "active": "f68af2bc1d2db24d",
   "lastOpenFiles": [
     "Robotics 3. representing rotation.md",
     "3_ComputerScience/AI.md",
