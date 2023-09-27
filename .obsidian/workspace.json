@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "taesoolib_RagdollFall_materialProperty.lua.md",
+                "file": "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "taesoolib_RagdollFall_materialProperty.lua.md",
+                "file": "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "taesoolib_RagdollFall_materialProperty.lua.md",
+                "file": "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "taesoolib_RagdollFall_materialProperty.lua.md"
+                "file": "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md"
               }
             }
           }
@@ -185,13 +186,13 @@
   },
   "active": "a6ca48b525faac0e",
   "lastOpenFiles": [
-    "6_taesoolib/taesooLib_documentation_main.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
-    "taesoolib_RagdollFall_materialProperty.lua.md",
+    "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
+    "6_taesoolib/taesoolib_library.md",
+    "6_taesoolib/taesooLib_documentation_main.md",
     "6_taesoolib/taesoolib_classification.md",
     "6_taesoolib/AnimOgreEntity.md",
     "Template/tag3_functionDescription.md",
-    "6_taesoolib/taesoolib_library.md",
     "Template/tag2.md",
     "Template/tag.md",
     "3_ComputerScience/AI.md",
