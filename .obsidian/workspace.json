@@ -8,60 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f68af2bc1d2db24d",
+            "id": "3b0e43a964d86040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_ComputerScience/AI.md",
+                "file": "6_taesoolib/AnimOgreEntity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43de7633a0e0cdc3",
+            "id": "3f548e4944e6575f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_taesoolib/taesooLib_documentation_main.md",
+                "file": "6_taesoolib/AnimOgreEntity.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "42bbb195bbd37817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_taesoolib/taesoolib_classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afddd8d49d1352af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca99a2f4077e2432",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           },
@@ -78,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -145,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
+                "file": "6_taesoolib/AnimOgreEntity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
+                "file": "6_taesoolib/AnimOgreEntity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md"
+                "file": "6_taesoolib/AnimOgreEntity.md"
               }
             }
           }
@@ -206,16 +171,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "afddd8d49d1352af",
+  "active": "3f548e4944e6575f",
   "lastOpenFiles": [
-    "6_taesoolib/taesoolib_classification.md",
+    "Template/tag3_functionDescription.md",
+    "6_taesoolib/AnimOgreEntity.md",
+    "6_taesoolib/taesoolib_library.md",
     "6_taesoolib/taesooLib_documentation_main.md",
+    "6_taesoolib/taesoolib_classification.md",
+    "Template/tag2.md",
+    "Template/tag.md",
+    "3_ComputerScience/AI.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
     "무제 파일.md",
     "Computer Graphics.md",
     "Introduction.md",
-    "Template/tag.md",
-    "3_ComputerScience/AI.md",
     "3_ComputerScience/Robotics 3. representing rotation.md",
     "6_taesoolib",
     "3_ComputerScience/Hand_Animation_Paper.md",
