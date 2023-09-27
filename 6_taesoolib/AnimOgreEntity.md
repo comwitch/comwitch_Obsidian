@@ -13,7 +13,21 @@
 
 
 ```lua 
-function AnimOgreEntity: __init
+function AnimOgreEntity: __init(meshFileName, entityScale, _optinal_skelScale, _buildEdgeList)
+```
+
+description : 생성자
+
+
+```lua 
+function AnimOgreEntity:dtor()
+```
+
+description : 소멸자
+
+```lua 
+
 ```
 
 description : 
+
