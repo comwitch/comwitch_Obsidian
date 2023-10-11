@@ -8,77 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b0e43a964d86040",
+            "id": "3e054063ea394776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_taesoolib/AnimOgreEntity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f548e4944e6575f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_taesoolib/taesoolib_classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ca48b525faac0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5556b53a1b174b5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "518fa679746e9fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6_taesoolib/Sample_torch train_deepmimic.py 분석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c56cfcfbd99d927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_ComputerScience/Robotics 3. representing rotation.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_taesoolib/Sample_torch train_deepmimic.py 분석.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_taesoolib/Sample_torch train_deepmimic.py 분석.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_taesoolib/Sample_torch train_deepmimic.py 분석.md"
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md"
               }
             }
           }
@@ -206,16 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "518fa679746e9fa4",
+  "active": "3e054063ea394776",
   "lastOpenFiles": [
-    "6_taesoolib/taesoolib_classification.md",
-    "6_taesoolib/taesoolib_library.md",
+    "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
+    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
     "6_taesoolib/taesooLib_documentation_main.md",
-    "6_taesoolib/Sample_torch train_deepmimic.py 분석.md",
+    "Template/tag3_functionDescription.md",
+    "6_taesoolib/taesoolib_library.md",
+    "6_taesoolib/taesoolib_classification.md",
     "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
     "6_taesoolib/AnimOgreEntity.md",
-    "Template/tag3_functionDescription.md",
     "Template/tag2.md",
     "Template/tag.md",
     "3_ComputerScience/AI.md",
@@ -234,7 +175,6 @@
     "0_inboxAndTodo/lunarvim.md",
     "5_Bookmarks/ASSJ.md",
     "AttachedFiles/attachedFiles.md",
-    "DQN.md",
     "AttachedFiles/pic1.png",
     "무제 파일.canvas",
     "AttachedFiles",

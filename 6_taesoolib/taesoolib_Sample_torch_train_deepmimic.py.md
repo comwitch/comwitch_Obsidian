@@ -36,4 +36,6 @@ url :
 	- for문 (157 to 180) : 실질적인 gradient 와 NN 계산 처리하는 부분
 	- with torch.no_grad() : nect actor_critic value 받기
 	- if문 (186 to 195) : gail에 대한 업데이트
-	- 202 rollouts.compute_returns(...)  그 이후 라인은 이제 무언가 ㅈ저ㅏㅇ하는 부분이라고 생각하면 편함
+	- 202 rollouts.compute_returns(...)  그 이후 라인은 이제 무언가 저장하는 부분이라고 생각하면 편함
+
+

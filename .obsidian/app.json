@@ -2,5 +2,6 @@
   "strictLineBreaks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0_inbox",
-  "attachmentFolderPath": "AttachedFiles"
+  "attachmentFolderPath": "AttachedFiles",
+  "alwaysUpdateLinks": true
 }
