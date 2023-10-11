@@ -22,4 +22,8 @@ url :
 - main()
 	- get_args() 를 통해서 파싱된 프리셋 저장 arguments.py 보면 이해가능
 	- torch.manual_seed 에 args.seed 줌 (난수 생성 일정하게)
-	- 
+	- writer = SummaryWriter(...) (tensorboard 관련함수)
+	- log_dir = log dir 설정
+	- envs = make_vec_envs(...) 환경 세팅하는 함수 (gym_gang 의 envs.py 참고)
+	- actor_critic = Policy(...) policy클래스로 init (gym_gang 의 model.py 참고)
+	- ifans 
