@@ -26,4 +26,10 @@ url :
 	- log_dir = log dir 설정
 	- envs = make_vec_envs(...) 환경 세팅하는 함수 (gym_gang 의 envs.py 참고)
 	- actor_critic = Policy(...) policy클래스로 init (gym_gang 의 model.py 참고)
-	- ifans 
+	- if문 (line 91 to 113) RL 알고리즘에 따라 알고리즘 세팅 다르게함 (A2C, PPO, acktr)
+	- if문 (line 115 to 129) gail에 대한 세팅 https://rlwithme.tistory.com/4 참고
+	- rollouts = rolloutstorage 클래스 초기화 하는 느낌인데.. 이 부분은 따로 분석해야함
+	- for문 (line 148 to 278) 까지는 이제 학습을 시작하는 라인이다.
+
+- for문 (line 148 to 278)
+	- if문 (149 새 153) lr decay 
