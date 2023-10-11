@@ -11,7 +11,9 @@ url :
 
 # 개요
 
-Sample torch의 test_deepmimic.py 코드 분석한 내용이다.
+Sample torch의 test_deepmimic.lua 코드 분석한 내용이다.
+
+lua다 lua py가 아니다!
 
 # 내용
 

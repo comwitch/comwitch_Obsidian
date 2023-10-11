@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md"
+                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "3e054063ea394776",
   "lastOpenFiles": [
     "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
-    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.py.md",
+    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
     "6_taesoolib/taesooLib_documentation_main.md",
     "Template/tag3_functionDescription.md",
     "6_taesoolib/taesoolib_library.md",

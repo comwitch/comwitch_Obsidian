@@ -34,6 +34,6 @@ url :
 
 ### 6.1 [[taesoolib_Sample_torch_train_deepmimic.py]]
 
-### 6.2 [[taesoolib_Sample_torch_test_deepmimic.py]]
+### 6.2 [[taesoolib_Sample_torch_test_deepmimic.lua]]
 
 
