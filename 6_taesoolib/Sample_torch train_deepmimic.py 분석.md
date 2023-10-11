@@ -32,4 +32,8 @@ url :
 	- for문 (line 148 to 278) 까지는 이제 학습을 시작하는 라인이다.
 
 - for문 (line 148 to 278)
-	- if문 (149 새 153) lr decay 
+	- if문 (149 to 153) learning rate decay 사용
+	- for문 (157 to 180) : 실질적인 gradient 와 NN 계산 처리하는 부분
+	- with torch.no_grad() : nect actor_critic value 받기
+	- if문 (186 to 195) : gail에 대한 업데이트
+	- 202 rollouts.compute_returns(...)  그 이후 라인은 이제 무언가 ㅈ저ㅏㅇ하는 부분이라고 생각하면 편함
