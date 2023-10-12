@@ -12,5 +12,5 @@ taesoolib_library 관련 정리
 
 # 목차
 
-1.  [[AnimOgreEntity]]
+1.  [[taesoolib_library_AnimOgreEntity]]
 

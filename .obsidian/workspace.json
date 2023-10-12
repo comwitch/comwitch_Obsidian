@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ccac42543768b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_taesoolib/taesoolib_library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
+                "file": "6_taesoolib/taesoolib_library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
+                "file": "6_taesoolib/taesoolib_library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md"
+                "file": "6_taesoolib/taesoolib_library.md"
               }
             }
           }
@@ -146,17 +159,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e054063ea394776",
+  "active": "6ccac42543768b0f",
   "lastOpenFiles": [
-    "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
-    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
-    "6_taesoolib/taesooLib_documentation_main.md",
-    "Template/tag3_functionDescription.md",
-    "6_taesoolib/taesoolib_library.md",
-    "6_taesoolib/taesoolib_classification.md",
+    "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
     "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
+    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
+    "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
+    "6_taesoolib/taesoolib_tip_DOF.md",
+    "6_taesoolib/taesoolib_library.md",
+    "6_taesoolib/taesooLib_documentation_main.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
-    "6_taesoolib/AnimOgreEntity.md",
+    "6_taesoolib/taesoolib_classification.md",
+    "Template/tag3_functionDescription.md",
     "Template/tag2.md",
     "Template/tag.md",
     "3_ComputerScience/AI.md",
@@ -174,7 +188,6 @@
     "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
     "0_inboxAndTodo/lunarvim.md",
     "5_Bookmarks/ASSJ.md",
-    "AttachedFiles/attachedFiles.md",
     "AttachedFiles/pic1.png",
     "무제 파일.canvas",
     "AttachedFiles",

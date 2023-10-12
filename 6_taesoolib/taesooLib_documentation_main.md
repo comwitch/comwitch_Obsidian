@@ -37,3 +37,8 @@ url :
 ### 6.2 [[taesoolib_Sample_torch_test_deepmimic.lua]]
 
 
+
+
+# 그 외 잡팁
+
+[[taesoolib_tip_DOF]]
