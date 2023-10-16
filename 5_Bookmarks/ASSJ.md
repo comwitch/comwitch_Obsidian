@@ -14,3 +14,5 @@ url :
 # 개요
 
 https://medium.com/@rasmusfangel/running-windows-games-on-linux-using-steam-proton-4c239a4e0e13
+
+https://blog.naver.com/lifeisforu/222661196103 : build system 분석
