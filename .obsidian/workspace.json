@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_taesoolib/taesoolib_library.md",
+                "file": "3_ComputerScience/Hand_Animation_Paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37e99854256d84b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_weeklyTuna/MainPage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec2ec8e66760b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Project/this is reviews.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_taesoolib/taesoolib_library.md",
+                "file": "1_Project/this is reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_taesoolib/taesoolib_library.md",
+                "file": "1_Project/this is reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_taesoolib/taesoolib_library.md"
+                "file": "1_Project/this is reviews.md"
               }
             }
           }
@@ -159,36 +183,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6ccac42543768b0f",
+  "active": "d7dfd8aaad9ce11c",
   "lastOpenFiles": [
-    "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
-    "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
-    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
-    "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
-    "6_taesoolib/taesoolib_tip_DOF.md",
-    "6_taesoolib/taesoolib_library.md",
-    "6_taesoolib/taesooLib_documentation_main.md",
+    "0_inboxAndTodo/무제 파일.md",
+    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
+    "0_inboxAndTodo/make blog with obsidian.md",
+    "0_inboxAndTodo/lunarvim.md",
+    "0_inboxAndTodo/AutoRegressiveModel.md",
+    "무제 파일.md",
+    "7_weeklyTuna/MainPage.md",
+    "7_weeklyTuna/2023.10/2023.10.md",
+    "7_weeklyTuna/2023.10/23.10.16.md",
+    "3_ComputerScience/Paper_deepmimic.md",
+    "3_ComputerScience/Robotics 3. representing rotation.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
+    "3_ComputerScience/Hand_Animation_Paper.md",
+    "5_Bookmarks/ASSJ.md",
+    "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
+    "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
+    "6_taesoolib/taesoolib_library.md",
+    "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
+    "AttachedFiles/attachedFiles.md",
+    "AttachedFiles/pic1.png",
+    "6_taesoolib/taesoolib_tip_DOF.md",
+    "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
+    "6_taesoolib/taesooLib_documentation_main.md",
     "6_taesoolib/taesoolib_classification.md",
+    "Template/template_weeklyTuna.md",
+    "7_weeklyTuna/2023.10",
+    "7_weeklyTuna",
     "Template/tag3_functionDescription.md",
     "Template/tag2.md",
-    "Template/tag.md",
-    "3_ComputerScience/AI.md",
-    "무제 파일.md",
-    "Computer Graphics.md",
-    "Introduction.md",
-    "3_ComputerScience/Robotics 3. representing rotation.md",
     "6_taesoolib",
-    "3_ComputerScience/Hand_Animation_Paper.md",
-    "2_DoingShit/this is doing shit.md",
-    "2_DoingShit/ManipNet.md",
-    "1_Reviews/this is reviews.md",
-    "0_inboxAndTodo/make blog with obsidian.md",
-    "0_inboxAndTodo/AutoRegressiveModel.md",
-    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
-    "0_inboxAndTodo/lunarvim.md",
-    "5_Bookmarks/ASSJ.md",
-    "AttachedFiles/pic1.png",
     "무제 파일.canvas",
     "AttachedFiles",
     "무제 파일 1.canvas"
