@@ -27,6 +27,8 @@ url :   https://web.cs.ucla.edu/~dt/papers/siggraph01/siggraph01.pdf
 
 - physics based animation에서 PD controller를 사용하는 이유?
 	- physics  reference motion을 따라하기 위해서.
+
+
 https://arpspoof.github.io/project/spd/spd.html
 
 
