@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "6_taesoolib/taesoolib_tip_DOF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b378f2b7c1594fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md"
+                "file": "무제 파일 1.md"
               }
             }
           }
@@ -183,12 +195,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ec2ec8e66760b5fc",
+  "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
+    "6_taesoolib/taesoolib_tip_DOF.md",
+    "무제 파일 1.md",
+    "7_weeklyTuna/2023.10/23.10.16.md",
     "7_weeklyTuna/MainPage.md",
     "3_ComputerScience/Paper_deepmimic.md",
     "3_ComputerScience/Robotics 3. representing rotation.md",
-    "7_weeklyTuna/2023.10/23.10.16.md",
     "5_Bookmarks/ASSJ.md",
     "1_Project_Plan/project1.PhysicsBasedAnimation.md",
     "1_Project_Plan/project2.buildSystem.md",
@@ -208,10 +222,8 @@
     "6_taesoolib/taesoolib_library.md",
     "6_taesoolib/taesoolib_Sample_torch_test_deepmimic.lua.md",
     "AttachedFiles/pic1.png",
-    "6_taesoolib/taesoolib_tip_DOF.md",
     "6_taesoolib/taesoolib_Sample_torch_train_deepmimic.py.md",
     "6_taesoolib/taesooLib_documentation_main.md",
-    "6_taesoolib/taesoolib_classification.md",
     "7_weeklyTuna/2023.10",
     "7_weeklyTuna",
     "6_taesoolib",
