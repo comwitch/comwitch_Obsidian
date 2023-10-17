@@ -22,10 +22,11 @@ url :   https://web.cs.ucla.edu/~dt/papers/siggraph01/siggraph01.pdf
 
 	- 들어오는 설정 값과 참조 값 사이의 오차를 비교해서 오차를 이용해서 제어를 할 수 있게 도와주는 제어기법
 	- 오차값 + 적분값 + 미분값을 합쳐서 구성되어있다.
+	- 폐쇠루프 시스템이다
 	- 현재 컴퓨터 애니메이션에서는 I를 빼고 PD controller 두 개만 이용한다.
 
 - physics based animation에서 PD controller를 사용하는 이유?
-	- physics 로 들어오는 반응을 사용하기 위해서.
+	- physics  reference motion을 따라하기 위해서.
 https://arpspoof.github.io/project/spd/spd.html
 
 
