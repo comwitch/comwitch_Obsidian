@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "3_ComputerScience/Physics_based_animation_PD_Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "3_ComputerScience/Physics_based_animation_PD_Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md"
+                "file": "3_ComputerScience/Physics_based_animation_PD_Controller.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6858a690a2f8aaab",
+  "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
-    "6_taesoolib/taesoolib_tip_DOF.md",
     "7_weeklyTuna/2023.10/23.10.16.md",
+    "6_taesoolib/taesoolib_tip_DOF.md",
     "무제 파일 1.md",
     "3_ComputerScience/Physics_based_animation_PD_Controller.md",
     "PBA_tutorial.md",
