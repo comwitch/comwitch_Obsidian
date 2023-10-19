@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "7_weeklyTuna/MainPage.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#taesoolib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,8 +135,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
-                "collapseAll": false,
+                "file": "7_weeklyTuna/MainPage.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "7_weeklyTuna/MainPage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +175,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md"
+                "file": "7_weeklyTuna/MainPage.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +196,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b378f2b7c1594fcb",
+  "active": "76b60e2d68c37207",
   "lastOpenFiles": [
+    "7_weeklyTuna/2023.10/23.10.16.md",
     "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
     "6_taesoolib/taesoolib_library.md",
     "6_taesoolib/taesoolib_classification.md",
     "6_taesoolib/taesooLib_documentation_main.md",
     "6_taesoolib/taesoolib_classification_OgreMesh_skinning.lua.md",
     "3_ComputerScience/Paper_deepmimic.md",
-    "7_weeklyTuna/2023.10/23.10.16.md",
     "7_weeklyTuna/MainPage.md",
     "Computer Graphics.md",
     "Introduction.md",
