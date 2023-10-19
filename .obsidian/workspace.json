@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "3_ComputerScience/RenderHardwareInterface.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "3_ComputerScience/RenderHardwareInterface.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "3_ComputerScience/RenderHardwareInterface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md"
+                "file": "3_ComputerScience/RenderHardwareInterface.md"
               }
             }
           }
@@ -198,8 +198,9 @@
   },
   "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
-    "7_weeklyTuna/MainPage.md",
     "7_weeklyTuna/2023.10/23.10.16.md",
+    "3_ComputerScience/RenderHardwareInterface.md",
+    "7_weeklyTuna/MainPage.md",
     "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
     "6_taesoolib/taesoolib_library.md",
     "6_taesoolib/taesoolib_classification.md",
@@ -223,7 +224,6 @@
     "0_inboxAndTodo/lunarvim.md",
     "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
     "0_inboxAndTodo/AutoRegressiveModel.md",
-    "AttachedFiles/attachedFiles.md",
     "AttachedFiles/pic1.png",
     "7_weeklyTuna/2023.10",
     "7_weeklyTuna",
