@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "0_inboxAndTodo/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "0_inboxAndTodo/무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md",
+                "file": "0_inboxAndTodo/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_weeklyTuna/2023.10/23.10.16.md"
+                "file": "0_inboxAndTodo/무제 파일.md"
               }
             }
           }
@@ -198,9 +198,16 @@
   },
   "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
-    "3_ComputerScience/RenderHardwareInterface.md",
+    "0_inboxAndTodo/AutoRegressiveModel.md",
+    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
+    "0_inboxAndTodo/lunarvim.md",
+    "0_inboxAndTodo/make blog with obsidian.md",
+    "AttachedFiles/attachedFiles.md",
+    "무제 파일.md",
+    "7_weeklyTuna/2023.10/23.10.23.md",
     "7_weeklyTuna/2023.10/23.10.16.md",
     "7_weeklyTuna/MainPage.md",
+    "3_ComputerScience/RenderHardwareInterface.md",
     "6_taesoolib/taesoolib_library_AnimOgreEntity.md",
     "6_taesoolib/taesoolib_library.md",
     "6_taesoolib/taesoolib_classification.md",
@@ -217,13 +224,6 @@
     "3_ComputerScience/Robotics 3. representing rotation.md",
     "3_ComputerScience/Hand_Animation_Paper.md",
     "6_taesoolib/taesoolib_RagdollFall_materialProperty.lua.md",
-    "5_Bookmarks/ASSJ.md",
-    "1_Project_Plan/project1.PhysicsBasedAnimation.md",
-    "1_Project_Plan/project2.buildSystem.md",
-    "0_inboxAndTodo/make blog with obsidian.md",
-    "0_inboxAndTodo/lunarvim.md",
-    "0_inboxAndTodo/Lerning_Grasp-Object_Interaction_by_IBS.md",
-    "0_inboxAndTodo/AutoRegressiveModel.md",
     "AttachedFiles/pic1.png",
     "7_weeklyTuna/2023.10",
     "7_weeklyTuna",
