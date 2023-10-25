@@ -29,6 +29,13 @@ url :
 
 - Eureka의 일반성은 3개의 key algorithm 의해서 가능하게 되었다.
 	1. environment as context : environment source code를 context화 시켜서 zero-shot generate executable reward function을 LLM backbone으로부터 만들 수 있다.
-	2. evolutionary search : EUREKA는 
-	3. reward reflection : 
+	2. evolutionary search : EUREKA는 반복적으로 참여하는 reward의 배치를 실행하고 가장 괜찮은걸 정제함
+	3. reward reflection : 이러한 in-context improvement는 reward reflection을 통해서 이루어진다 reward reflection은 reward function의 policy training statistic 에 기반한 문자로 된 요약이라고 보면 된다.
 
+- EUREKA는 intermdediate rewards를 평가한다.  이걸 IsaacGym을 이용해서 해결한다. 
+
+## Problem Setting과 정의
+
+
+- reward design의 목표는 실제 reward function이 직접 최적화하기 어려운 function을 design하는 것이다.
+- 그래서 singh 의 논문에서 가져온 
