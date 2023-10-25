@@ -11,8 +11,7 @@ url :
 
 # 개요
 
-- 빠르게 Eureka 파트 구현부분 분석하기 위해서 논문 읽고 정리 
-
+- 빠르게 Eureka 파트 구현 부분 분석하기 위해서 논문 읽고 정리 
 
 # 내용
 
@@ -45,4 +44,11 @@ url :
 - tuple P =  < M, R, pi, F> 로 이루어져있다.
 - M = ( S, A, T ) world model : S 는 state space , A 는 Action space , T 는 transition function
 - R 은 reward function A() R -> bigPi 는 learning algorithm 최적화된 Reward function을 내놓는 policy pi를 주는 거라고 생각하면 된다. 
+- F 는 policy에 대한  scalar evaluation 를 제공 해주는 fitness function이라고 한다.
+	- 여기서 policy는 policy queries 를 통해서 제공한다는데... 이파트는 잘 모르겟다.
+
+- 결국 RDP의 목표는 최적화된 Reward function을 제공하는 거고 그 판단은 R에 의해서 최적화된 policy를 Fitness 함수의 scala evaluation을 이용해서 한다고 보면 된다.
+
+### Reward Generation Problem 
+
 - 
