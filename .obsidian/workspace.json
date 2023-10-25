@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_ComputerScience/Paper_Eureka.md",
+                "file": "7_weeklyTuna/2023.10/23.10.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a30c457d290eb698",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_ComputerScience/Paper_Eureka.md",
+                "file": "7_weeklyTuna/2023.10/23.10.23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_ComputerScience/Paper_Eureka.md",
+                "file": "7_weeklyTuna/2023.10/23.10.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_ComputerScience/Paper_Eureka.md"
+                "file": "7_weeklyTuna/2023.10/23.10.23.md"
               }
             }
           }
@@ -199,8 +198,8 @@
   },
   "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
-    "7_weeklyTuna/2023.10/23.10.23.md",
     "3_ComputerScience/Paper_Eureka.md",
+    "7_weeklyTuna/2023.10/23.10.23.md",
     "Template/template_weeklyTuna.md",
     "0_inboxAndTodo/무제 파일.md",
     "0_inboxAndTodo/AutoRegressiveModel.md",
