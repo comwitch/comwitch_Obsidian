@@ -72,7 +72,7 @@ url :
 
 - 이런 적은 instruction이 EUREKA의 zero-sho generate를 해결할 수 있는 시야로 보게 만든다
 
-- FIg 3을 보면 EUREKA의 output을 보게ehla
+- FIg 3을 보면 EUREKA의 output을 보게됨
 
 - EUREKA는 environment에서 제공하는 변수들을 활용하고 reward template나 환경에 특화되지않은 코드를 줌
 
@@ -80,4 +80,13 @@ url :
 
 ### 3.2 Evolutionary Search
 
-- 
+- 3.1 에서 생긴걸 다루기 위해서 evolutionary search가 나옴
+
+- 각 iter에서 sample들은 서로 iid하다 그러기 때문에 sample을 늘리면 reward function을 낮춘다. 
+
+- 실험해봤는데 충분한 sample 들을 줘봐도 끽해봐짜 1개의 executable 한 결과물을 준다. 
+
+- Eureka는 전 iteration의 excutable한 결과물의 피드백을 이용해서 새로운걸 낸다. 
+
+- 이걸 간단하게 특정한 mutation operator 로서 아카이브 한다는데 
+
