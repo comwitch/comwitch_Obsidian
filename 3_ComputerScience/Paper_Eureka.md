@@ -62,6 +62,22 @@ url :
 
 ### 3.1 Environment as context
 
-- Reward design은 LLM에 제공하기 위해서는 환경세팅이 필요하다. 저자들은 context형태로 raw하게 LLM에게 RDP 의 M을 제공했다. 
+- Reward design은 LLM에 제공하기 위해서는 환경세팅이 필요하다. 저자들은  raw environment code를 context로  LLM에게 RDP 의 M을 제공했다. 
 
-- 저런 이유가 자유롭게 주어야 LLM에서 자기가 프로그래밍을 학습한 방식의 syntax 나 코드스타일을 건드리지 않는데 그래야 
+- 저런 이유가 자유롭게 주어야 LLM에서 자기가 프로그래밍을 학습한 방식의 syntax 나 코드스타일을 건드리지 않는데 그래야 더 강력한 code generation을 준다고 한다..(솔직히 걍 말 지어낸거같은데)
+- 그리고 근본적인 이유는 environment source code 는 형식적으로 환경이 무엇을 내포하고 무슨 변수가 사용되는 지만 알려준다고 함 
+- 이걸 최대한 이끌어내기 위해서  EUREKA는 생 python 코드만 주고 보상함수나 포멧에 관해서는 단순하게 팁만 줌 (예를 들어 output으로 주어야 할 것들에 대해서)
+
+- Appendix D를 통해서 관찰하면 될듯
+
+- 이런 적은 instruction이 EUREKA의 zero-sho generate를 해결할 수 있는 시야로 보게 만든다
+
+- FIg 3을 보면 EUREKA의 output을 보게ehla
+
+- EUREKA는 environment에서 제공하는 변수들을 활용하고 reward template나 환경에 특화되지않은 코드를 줌
+
+- 하지만, 대부분의 reward는 구동조차 되지 않거나 Fitness function F에 최적화가 전혀 되지 않는다
+
+### 3.2 Evolutionary Search
+
+- 
