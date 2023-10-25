@@ -15,7 +15,7 @@ url :
 
 # 내용
 
-## abstract and Introduction
+## 1. abstract and Introduction
 
 - Eureka의 기여는 다음과 같다.
 	1. reward function을 LLM 을 통해서 human-level performance로 늘려왔다.
@@ -33,7 +33,7 @@ url :
 
 - EUREKA는 intermdediate rewards를 평가한다.  이걸 IsaacGym을 이용해서 해결한다. 
 
-## Problem Setting과 정의
+## 2. Problem Setting과 정의
 
 
 - reward design의 목표는 실제 reward function이 직접 최적화하기 어려운 function을 design하는 것이다.
@@ -51,4 +51,17 @@ url :
 
 ### Reward Generation Problem 
 
-- 
+- 논문의 저자는 RDP의 problem setting을 code로 구현했다고 한다
+- 어떤 일을 시키는 string l을 넣으면 RGP는 위에서 말한 RDP가 원하는 결과물 R을 제공해 준다.
+
+
+## 3. Method
+
+- introduction에서 말한거 3가지의 algorithm적 구성요소를 설명한다.
+- 논문의 appendix A 에서 all prompt가 제공됨
+
+### 3.1 Environment as context
+
+- Reward design은 LLM에 제공하기 위해서는 환경세팅이 필요하다. 저자들은 context형태로 raw하게 LLM에게 RDP 의 M을 제공했다. 
+
+- 저런 이유가 자유롭게 주어야 LLM에서 자기가 프로그래밍을 학습한 방식의 syntax 나 코드스타일을 건드리지 않는데 그래야 
