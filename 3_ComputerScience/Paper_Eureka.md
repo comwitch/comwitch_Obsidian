@@ -44,4 +44,5 @@ url :
 
 - tuple P =  < M, R, pi, F> 로 이루어져있다.
 - M = ( S, A, T ) world model : S 는 state space , A 는 Action space , T 는 transition function
-- R 은 reward function A() R -> bigPi 는 learning algorithm 최적화된 Reward function을 내놓는 policy ㄴ
+- R 은 reward function A() R -> bigPi 는 learning algorithm 최적화된 Reward function을 내놓는 policy pi를 주는 거라고 생각하면 된다. 
+- 
