@@ -27,5 +27,8 @@ url :
 
 - LLM 은 GPT-4 로 사용함 (source code를 보면 gpt-3.5 turbo도 되긴함)
 
-- Eureka의 일반성은 다음에 의해서 가능하게 되었다.
-	-1
+- Eureka의 일반성은 3개의 key algorithm 의해서 가능하게 되었다.
+	1. environment as context : environment source code를 context화 시켜서 zero-shot generate executable reward function을 LLM backbone으로부터 만들 수 있다.
+	2. evolutionary search : EUREKA는 
+	3. reward reflection : 
+
