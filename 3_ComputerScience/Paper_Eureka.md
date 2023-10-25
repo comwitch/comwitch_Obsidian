@@ -88,5 +88,12 @@ url :
 
 - Eureka는 전 iteration의 excutable한 결과물의 피드백을 이용해서 새로운걸 낸다. 
 
-- 이걸 간단하게 특정한 mutation operator 로서 아카이브 한다는데 
+- 이걸 간단하게 특정한 mutation operator 로서 아카이브 하고 이거가 영향을 미친다고 한다.
 
+- 이 mutation을 이용해서 EUREKA는 LLM로부터 결과물을 내놓는다. 이 최적화는 특정 iteration 수까지 반복된다 
+
+- EUREKA 는 5번의 environment를 실행하고 16번의 샘플을 사용함.
+
+### 3.3 Reward Reflection
+
+- in-context reward mutation을 하기 위해서 
