@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md",
+                "file": "7_weeklyTuna/2023.11/23.11.06.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md",
+                "file": "7_weeklyTuna/2023.11/23.11.06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md",
+                "file": "7_weeklyTuna/2023.11/23.11.06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md"
+                "file": "7_weeklyTuna/2023.11/23.11.06.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "b378f2b7c1594fcb",
   "lastOpenFiles": [
+    "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md",
     "7_weeklyTuna/2023.11/23.11.06.md",
     "Template/template_weeklyTuna.md",
-    "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems/1_Introdution.md",
     "3_ComputerScience/AI.md",
     "3_ComputerScience/PhysicalBasedAnimation/ImpulseBasedSimulationOfRigidBodySystems",
     "3_ComputerScience/PhysicalBasedAnimation",
